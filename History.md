@@ -1,3 +1,8 @@
+0.3.1 / 2020-09-09
+==================
+
+  * call setRawMode(false) on exit to restore stty modes
+  * exit cleanly under nodejs v10+
 
 0.3.0 / 2014-03-25
 ==================

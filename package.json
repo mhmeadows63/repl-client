@@ -10,10 +10,10 @@
   "author": "Daniel D. Shaw <dshaw@dshaw.com> (http://dshaw.com)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dshaw/repl-client.git"
+    "url": "https://github.com/mhmeadows63/repl-client.git"
   },
   "bugs": {
-    "url": "http://github.com/dshaw/repl-client/issues"
+    "url": "http://github.com/mhmeadows63/repl-client/issues"
   },
   "license": "MIT",
   "main": "./repl-client.js",
